@@ -1,16 +1,16 @@
 # Generative AI: An Introduction to Possibilities and Challenges
 
 ## Table of Contents
-1. Introduction to Generative AI
-2. How Generative AI Works
-3. Applications of Generative AI
-4. Advantages of Generative AI
-5. Challenges and Limitations of Generative AI
-6. Ethical Considerations in Generative AI
-7. Future Trends in Generative AI
-8. Case Studies: Generative AI in Action
-9. Getting Started with Generative AI
-10. Conclusion and Future Outlook
+1. [Introduction to Generative AI](#chapter-1-introduction-to-generative-ai)
+2. [How Generative AI Works](#chapter-2-how-generative-ai-works)
+3. [Applications of Generative AI](#chapter-3-applications-of-generative-ai)
+4. [Advantages of Generative AI](#chapter-4-advantages-of-generative-ai)
+5. [Challenges and Limitations of Generative AI](#chapter-5-challenges-and-limitations-of-generative-ai)
+6. [Ethical Considerations in Generative AI](#chapter-6-ethical-considerations-in-generative-ai)
+7. [Future Trends in Generative AI](#chapter-7-future-trends-in-generative-ai)
+8. [Case Studies: Generative AI in Action](#chapter-8-case-studies-generative-ai-in-action)
+9. [Getting Started with Generative AI](#chapter-9-getting-started-with-generative-ai)
+10. [Conclusion and Future Outlook](#chapter-10-conclusion-and-future-outlook)
 
 ---
 
@@ -212,10 +212,4 @@ Discussing the future of Generative AI, including potential advancements, challe
 
 **Final Thoughts**
 
-Encouraging readers to stay informed and engaged with the ongoing developments in Generative AI and its applications.
-
----
-
-This structure provides a comprehensive yet accessible guide to Generative AI, covering its basics, applications, benefits, and challenges, along with practical insights and future trends. Each chapter is designed to be read within an hour, making the book suitable for a broad audience.
-
-
+Encouraging readers to stay informed and engaged with the ongoing developments in Generative
